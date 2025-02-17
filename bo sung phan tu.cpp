@@ -25,6 +25,7 @@ void Test () {
     while (t--) {
         solve();
     }
+        return 0;
 }
 
 int main () {
